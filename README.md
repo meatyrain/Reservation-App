@@ -34,6 +34,3 @@ Demo the app using the MainView file.
 ## Contributing
 Contributions to the Little Lemon Restaurant Reservation App are welcome. Please read the contribution guidelines before submitting your contributions.
 
-
-## Contact
-For support or any queries, please reach out to [Insert Contact Information Here].
